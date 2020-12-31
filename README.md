@@ -1,4 +1,4 @@
-# hoc
+# HOC
 
 ## Project setup
 ```
